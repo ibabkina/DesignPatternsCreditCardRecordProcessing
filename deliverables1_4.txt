@@ -1,0 +1,16 @@
+Deliverables 1 - 4:
+
+
+1. Describe what is the primary problem you are trying to solve. (P1)
+To figure out what kind of card a specific record is about
+
+2. Describe what are the secondary problems you try to solve (if there are any). (P2/P3)
+How to create the appropriate objects
+
+3. Describe what design pattern(s) you use. 
+Chain Of Responsibility Pattern and Factory Method Pattern
+
+4. Describe the consequences of using this/these pattern(s).
+
+
+
